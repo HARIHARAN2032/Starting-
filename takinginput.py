@@ -1,0 +1,6 @@
+num = input ("Enter the number :")
+print (num)
+num1 = input ("Enter the name")
+print (num1)
+print ("Type of number", type(num))
+print ("Type of name ", type(num1)
